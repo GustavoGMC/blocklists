@@ -7,7 +7,6 @@
 *.content-signature-1.cdn.mozilla.net
 *.partner.netflix.net
 *.tv.global.mi.com
-*.gvt1.com
 *.yt3.ggpht.com
 *.taboola.com
 *.googleads.g.doubleclick.net
