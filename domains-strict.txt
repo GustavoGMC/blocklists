@@ -23,3 +23,6 @@
 mobile.pipe.aria.microsoft.com
 mobile.events.data.microsoft.com
 *.uxcam.com
+*.s3.glbimg.com
+sb.scorecardresearch.com
+*.scorecardresearch.com
