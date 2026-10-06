@@ -1,5 +1,5 @@
 #
-# WARNING: This list may affect app and website functionality. 
+# WARNING: This list may affect apps and websites functionality. 
 #
 
 *.bixbyllm.com
@@ -20,9 +20,14 @@
 *.advertising.amazon.dev
 *.events.data.microsoft.com
 *.pipe.aria.microsoft.com
-mobile.pipe.aria.microsoft.com
-mobile.events.data.microsoft.com
 *.uxcam.com
 *.s3.glbimg.com
-sb.scorecardresearch.com
 *.scorecardresearch.com
+*.tracking.miui.com
+*.datadoghq-browser-agent.com
+*.app.link
+app.link
+tracking.miui.com
+mobile.pipe.aria.microsoft.com
+mobile.events.data.microsoft.com
+sb.scorecardresearch.com
