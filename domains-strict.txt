@@ -25,6 +25,7 @@
 *.tracking.miui.com
 *.datadoghq-browser-agent.com
 *.app.link
+*.assets.adobedtm.com
 app.link
 tracking.miui.com
 mobile.pipe.aria.microsoft.com
