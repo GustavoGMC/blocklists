@@ -1,0 +1,25 @@
+#
+# WARNING: This list may affect app and website functionality. 
+#
+
+bixbyllm.com
+content-signature-2.cdn.mozilla.net
+content-signature-1.cdn.mozilla.net
+partner.netflix.net
+tv.global.mi.com
+gvt1.com
+yt3.ggpht.com
+taboola.com
+googleads.g.doubleclick.net
+g.doubleclick.net
+doubleclick.net
+trackid.globoid.globo.com
+horizon-track.globo.com
+sdkconfig.ad.intl.xiaomi.com
+ad.intl.xiaomi.com
+advertising.amazon.dev
+events.data.microsoft.com
+pipe.aria.microsoft.com
+mobile.pipe.aria.microsoft.com
+mobile.events.data.microsoft.com
+uxcam.com
