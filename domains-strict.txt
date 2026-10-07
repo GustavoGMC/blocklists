@@ -27,6 +27,8 @@
 *.app.link
 *.assets.adobedtm.com
 *.branch.io
+*.ns1p.net
+*.data.adobedc.net
 app.link
 tracking.miui.com
 mobile.pipe.aria.microsoft.com
