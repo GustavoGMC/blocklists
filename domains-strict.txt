@@ -26,6 +26,7 @@
 *.datadoghq-browser-agent.com
 *.app.link
 *.assets.adobedtm.com
+*.branch.io
 app.link
 tracking.miui.com
 mobile.pipe.aria.microsoft.com
