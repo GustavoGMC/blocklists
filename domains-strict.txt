@@ -29,6 +29,8 @@
 *.branch.io
 *.ns1p.net
 *.data.adobedc.net
+*.moloco.com
+*.mpproject.net
 app.link
 tracking.miui.com
 mobile.pipe.aria.microsoft.com
