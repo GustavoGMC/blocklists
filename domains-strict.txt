@@ -31,6 +31,8 @@
 *.data.adobedc.net
 *.moloco.com
 *.mpproject.net
+*.awario.com
+awario.com
 app.link
 tracking.miui.com
 mobile.pipe.aria.microsoft.com
