@@ -32,6 +32,7 @@
 *.moloco.com
 *.mpproject.net
 *.awario.com
+i-fallback.instagram.com
 awario.com
 app.link
 tracking.miui.com
